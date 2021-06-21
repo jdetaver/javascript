@@ -17,6 +17,18 @@ document.getElementById("toevoegen").onclick = function () {
 
 };
 
+document.getElementById("toevoegen").onclick = function(){
+    console.log("dfmqsdklfqjsmlfjldf");
+};
+
+
+document.getElementById("toevoegen").addEventListener('click',function(){
+    console.log("1111");
+});
+document.getElementById("toevoegen").addEventListener('click',function(){
+    console.log("2222");
+});
+
 // count = myArray.filter(x => x == searchValue).length;
 
 // var str = "Hello World!";
