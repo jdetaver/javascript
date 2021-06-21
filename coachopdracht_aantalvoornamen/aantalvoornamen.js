@@ -15,7 +15,9 @@ document.getElementById("toevoegen").onclick = function () {
         voornaamInput.focus();
     }
 
-};
+};  
+
+//test
 
 document.getElementById("toevoegen").onclick = function(){
     console.log("dfmqsdklfqjsmlfjldf");
